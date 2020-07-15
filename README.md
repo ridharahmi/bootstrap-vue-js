@@ -1,5 +1,5 @@
-# vue_bootstrap
-
+# Vue Bootstrap
+[bootstrap-vue](https://bootstrap-vue.org/docs/components/card#text-variants)
 ## Project setup
 ```
 npm install
