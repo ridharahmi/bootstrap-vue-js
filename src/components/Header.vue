@@ -1,6 +1,6 @@
 <template>
     <b-navbar toggleable="lg" type="dark" variant="dark">
-        <b-navbar-brand href="#">Vue Js Bootstrap</b-navbar-brand>
+        <b-navbar-brand href="/">Bootstrap <span>Vue Js</span></b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
@@ -34,5 +34,7 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
+    .navbar-brand span {
+        color: #41b883;
+    }
 </style>
